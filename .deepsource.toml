@@ -1,0 +1,7 @@
+version = 1
+
+[[analyzers]]
+name = "go"
+
+  [analyzers.meta]
+  import_root = "github.com/Akshita-S/https-github.com-snyk-testgoadesign-goa"
